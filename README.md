@@ -2,8 +2,8 @@
 
 My personal link list for experimenting with my new addNewPerson bypass :) tinyurl is on top for this goofy stuff
 
-[https://tinyurl.com/addsession](https://tinyurl.com/addsession)
-[chrome://add-supervision](chrome://add-supervision)
-[chrome://settings/signOut](chrome://settings/signOut)
-[chrome://kill](chrome://kill)
-[chrome://restart](chrome://restart)
+https://tinyurl.com/addsession  -- adding sessions
+https://tinyurl.com/3ub7m3vj  -- adding supervision
+https://tinyurl.com/4kj36sny  --
+https://tinyurl.com/37mtnxcu
+https://tinyurl.com/yuk34e35
