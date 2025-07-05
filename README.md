@@ -1,6 +1,6 @@
 # DrPipeBomb
 
-My personal link list for experimenting with my new addNewPerson bypass :) tinyurl is on top for this goofy stuff
+addNewPerson Permissions Bypass. (Reporting Soon.)
 
 https://tinyurl.com/addsession  -- adding sessions
 https://tinyurl.com/3ub7m3vj  -- adding supervision
